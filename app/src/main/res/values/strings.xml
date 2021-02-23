@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Z Broke</string>
+    <string name="welcome">Welcome</string>
+    <string name="start">Start</string>
+    <string name="notify_record">record</string>
+    <string name="notify_shutdown">shutdown</string>
+    <string name="zbroke">Z Broke</string>
+</resources>

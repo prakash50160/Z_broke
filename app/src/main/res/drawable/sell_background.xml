@@ -1,0 +1,20 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:shape="rectangle"
+    tools:ignore="MissingDefaultResource">
+    <size
+        android:width="300dp"
+        android:height="150dp">
+    </size>
+    <solid
+        android:color="@color/sell_color">
+    </solid>
+    <corners
+        android:topRightRadius="10dp"
+        android:bottomRightRadius="10dp"
+        android:bottomLeftRadius="10dp"
+        android:topLeftRadius="10dp"/>
+    <stroke
+        android:width="2dp"
+        android:color="@color/sell_color"/>
+</shape>
