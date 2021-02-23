@@ -1,4 +1,4 @@
-Hey there!
+AGAR Labs
 
 ![alt text](https://github.com/prakash50160/Z_broke/blob/master/app/src/main/ic_launcher-playstore.png?raw=true)
 
