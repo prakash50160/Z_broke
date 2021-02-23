@@ -1,6 +1,6 @@
 Hey there!
 
-
+![alt text](https://github.com/prakash50160/Z_broke/blob/master/app/src/main/ic_launcher-playstore.png?raw=true)
 
 This apk will show the live brokeage while doing intraday.
 
