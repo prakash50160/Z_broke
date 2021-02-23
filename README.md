@@ -1,5 +1,7 @@
 Hey there!
 
+
+
 This apk will show the live brokeage while doing intraday.
 
 Try it. Tell me know any issues.
