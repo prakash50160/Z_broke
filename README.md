@@ -8,6 +8,8 @@ Try it. Tell me know any issues.
 
 If you need the apk file Just go into app --> release --> app-release.apk
 
-Video demo will be uploaded soon.
+Video demo below here
+
+https://youtu.be/IWxNjW8BaSo
 
 Thanks in before.
