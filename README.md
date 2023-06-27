@@ -6,6 +6,8 @@ This apk will show the live brokeage while doing intraday.
 
 Try it. Tell me know any issues.
 
+But say yes
+
 If you need the apk file Just go into app --> release --> app-release.apk
 
 Video demo below here
